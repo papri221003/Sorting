@@ -12,10 +12,6 @@ It is designed for learning, practicing, and comparing the efficiency of algorit
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-- Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
 
 ---
 
@@ -27,6 +23,4 @@ It is designed for learning, practicing, and comparing the efficiency of algorit
 - Time & space complexity analysis
 
 ---
-
-## 📂 Project Structure
 
